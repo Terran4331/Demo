@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">property_anim using animate method</string>
+    <string name="hello_world">view animation!</string>
+    <string name="fade_in">fade in!</string>
+    <string name="fade_out">fade out!</string>
+    <string name="action_settings">Settings</string>
+    <string name="rotationX">obj_anim_rotation_X</string>
+    <string name="rotationY">obj_anim_rotation_Y</string>
+    <string name="rotationZ">rotate_Z_animate</string>
+    <string name="alpha_scale">obj_anim_PropertyValuesHolder</string>
+    <string name="value_anim">value_anim</string>
+    <string name="value_anim_paowuxian">value_anim_typeevaluator</string>
+    <string name="paowuxian_anim_end">paowuxian animation end</string>
+    <string name="anim_set">anim_set</string>
+    <string name="anim_xml">anim_xml</string>
+    <string name="anim_xml_set">anim_xml_set</string>
+    <string name="btn_add">custom_add</string>
+    <string name="btn_dlt">default_dlt</string>
+    <string name="custom_layout_transition">custom_layout_transition</string>
+    <string name="btn_value_anim">view animation</string>
+    <string name="btn_camera">view_animation_camera</string>
+
+</resources>

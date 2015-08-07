@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:animationcustom="http://schemas.android.com/apk/res/com.example.animationcustom"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f1f1f1"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.animationcustom.MainActivity" >
+
+    <com.example.animationcustom.ArcView
+        android:id="@+id/app_mng_arc_view"
+        android:layout_width="61dp"
+        android:layout_height="61dp"
+        android:layout_centerInParent="true"
+        animationcustom:borderColor="#43a3ee"
+        animationcustom:borderWidth="1dp"
+        animationcustom:drawBody="false"
+        animationcustom:startAngle="-45.0"
+        animationcustom:sweepAngle="360.0" />
+
+    <com.example.animationcustom.ArcView
+        android:id="@+id/app_up_tag_arc_view"
+        android:layout_width="17dp"
+        android:layout_height="17dp"
+        android:layout_alignRight="@id/app_mng_arc_view"
+        android:layout_alignTop="@id/app_mng_arc_view"
+        android:layout_marginRight="1dp"
+        android:layout_marginTop="1dp"
+        android:visibility="gone"
+        animationcustom:bodyColor="#ffffff"
+        animationcustom:borderColor="#fb3466"
+        animationcustom:borderWidth="1dp"
+        animationcustom:drawBody="true"
+        animationcustom:startAngle="-135.0"
+        animationcustom:sweepAngle="0.0" />
+
+    <TextView
+        android:id="@+id/app_up_tag_num"
+        android:layout_width="17dp"
+        android:layout_height="17dp"
+        android:layout_alignRight="@id/app_mng_arc_view"
+        android:layout_alignTop="@id/app_mng_arc_view"
+        android:layout_marginRight="1dp"
+        android:layout_marginTop="1dp"
+        android:gravity="center"
+        android:text="8"
+        android:textColor="#ed1e53"
+        android:textSize="13sp"
+        android:visibility="gone" />
+
+    <com.example.animationcustom.MyTextView
+        android:id="@+id/my_text_view" 
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"/>
+
+</RelativeLayout>

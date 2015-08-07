@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.bignerdranch.android.nerdlauncher.NerdLauncherActivity" >
+
+    <item
+        android:id="@+id/action_app"
+        android:orderInCategory="100"
+        android:title="@string/action_app"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_task"
+        android:orderInCategory="100"
+        android:title="@string/action_task"
+        app:showAsAction="never"/>
+    
+</menu>

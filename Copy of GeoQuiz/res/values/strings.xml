@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">InCorrect!</string>
+    <string name="pre_button">Prev!</string>
+    <string name="pre_content_des_button">previous question!</string>
+    <string name="next_button">Next!</string>
+    <string name="next_content_des_button">next question!</string>
+    <string name="question_oceans">Pacific is large!</string>
+    <string name="question_america">america is small!</string>
+    <string name="question_asia">asia is in west!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

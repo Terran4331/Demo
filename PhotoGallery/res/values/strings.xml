@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PhotoGallery</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search Flickr</string>
+    <string name="clear_search">Clear Search</string>
+    <string name="notify_title">notify title</string>
+    <string name="notify_content">notify content</string>
+    <string name="notify_ticker">notify ticker</string>
+    <string name="notify_toast">notify toast</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

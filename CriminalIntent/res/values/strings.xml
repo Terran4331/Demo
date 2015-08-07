@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">Enter a title for the crime!</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Solved</string>
+    <string name="crimes_title">Crimes</string>
+    <string name="date_picker_title">Date of crime</string>
+    <string name="time_picker_title">Time of crime</string>
+    <string name="date_time_title">Modify date or time?</string>
+    <string name="delete_photo">Delete photo</string>
+    <string name="modify_date_btn">Date</string>
+    <string name="modify_time_btn">Time</string>
+    <string name="emptyList">empty!</string>
+    <string name="emptyButton">Add items</string>
+    <string name="delete_crime">Delete</string>
+    <string name="takeButton">Take!</string>
+    <string name="suspect_button">Choose suspect</string>
+    <string name="call_contact_button">Call the guy!</string>
+    <string name="report_crime_button">Send crime report!</string>
+    <string name="crime_report_subject">CriminalIntent crime report</string>
+    <string name="crime_report_solved">Solved!</string>
+    <string name="crime_report_not_solved">Not Solved!</string>
+    <string name="crime_report_no_suspect">no suspect</string>
+    <string name="crime_report_content">Title:%1$s, Date:%2$s, Suspect:%3$s, Solved:%4$s</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
