@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\MyWork\android_demo\SwipeRefreshLayoutBasic\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="D:\MyWork\android_demo\SwipeRefreshLayoutBasic\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-c5e41e94c683e2528376ef0fe630fd6fccf943e2.jar" />
+    </item>
+    <item
+        jar="D:\MyWork\android_demo\SwipeRefreshLayoutBasic\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="D:\MyWork\android_demo\SwipeRefreshLayoutBasic\Application\build\intermediates\pre-dexed\debug\classes-125c194cda2240b1db50245a5cfb2277edebe074.jar" />
+    </item>
+    <item
+        jar="D:\MyWork\android_demo\SwipeRefreshLayoutBasic\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="D:\MyWork\android_demo\SwipeRefreshLayoutBasic\Application\build\intermediates\pre-dexed\debug\classes-ee051fbad1e12984bee5dc1bbee8285db60fe54d.jar" />
+    </item>
+    <item
+        jar="C:\Users\jinqijiang\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\MyWork\android_demo\SwipeRefreshLayoutBasic\Application\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-95b7182bfcdb5e40e9be012304e70588b74c675b.jar" />
+    </item>
+    <item
+        jar="D:\MyWork\android_demo\SwipeRefreshLayoutBasic\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\MyWork\android_demo\SwipeRefreshLayoutBasic\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-1c2f91687b844dfc9a914ca80ae8219916ce2113.jar" />
+    </item>
+    <item
+        jar="D:\MyWork\android_demo\SwipeRefreshLayoutBasic\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\MyWork\android_demo\SwipeRefreshLayoutBasic\Application\build\intermediates\pre-dexed\debug\classes-11100b93ba7beb280630d6ec64c191a62c605498.jar" />
+    </item>
+
+</items>

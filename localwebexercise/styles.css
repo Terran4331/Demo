@@ -1,0 +1,30 @@
+h1
+{
+display:block;
+width:200pt;
+height:100pt;
+font-family:Verdana,Geneva,Arial,Helvetica,sans-serif;
+font-size:20pt;
+font-style:italic;
+font-weight:normal;
+border-width:5pt;
+border-color:rgb(0,0,255);
+border-style:solid;
+border-top:10pt double red;
+line-height:20pt;
+color:#593d87;
+background-color:orange;
+text-decoration:underline;
+text-align:left;
+text-indent:12px;
+padding:5pt;
+padding-left:20pt;
+padding-right:5pt;
+padding-top:5pt;
+padding-bottom:5pt;
+}
+h1.silly{font:36pt Comic Sans;}
+div.divstyle{
+font-size:9pt;
+text-align:center;
+}
